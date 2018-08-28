@@ -8,6 +8,5 @@ require 'pry'
   puts "#{k} appears #{v} times"
 end
 end
-   
 end
  
