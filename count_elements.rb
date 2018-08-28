@@ -1,5 +1,5 @@
-def count_elements(array)
+def count_elements(animals)
 new_hash = {}
-array.each 
+animals.each do |x|
 end
  
