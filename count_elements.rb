@@ -3,4 +3,4 @@ new_hash = {}
 animals.each do |x|
   
 end
- 
+ end
