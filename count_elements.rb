@@ -1,6 +1,6 @@
 def count_elements(animals)
 new_hash = {}
-animals.each do |x,y|
+animals.collect do |x,y|
   puts "#{x} => #{y}"
   
 end
