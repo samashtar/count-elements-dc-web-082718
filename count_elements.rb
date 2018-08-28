@@ -9,5 +9,6 @@ require 'pry'
   binding.pry
 end
 end
+newhash
 end
  
